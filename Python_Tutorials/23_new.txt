@@ -1,0 +1,1 @@
+Reading this file using with statement
