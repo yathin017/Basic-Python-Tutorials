@@ -10,13 +10,13 @@ You can use Python 3.5 or any newer Python with this tutorial.
 You can star this tutorial. Starring is free for you, but it tells me
 and other people that you like this tutorial.
 
-Go [here](https://github.com/yathin017/python-tutorial) if you aren't here
+Go [here](https://github.com/yathin017/Basic-Python-Tutorials) if you aren't here
 already and click the "Star" button in the top right corner. You will be
 asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection?
 
-1. Go [here](https://github.com/yathin017/python-tutorial) if you aren't
+1. Go [here](https://github.com/yathin017/Basic-Python-Tutorials) if you aren't
     here already.
 2. Click the big green "Clone or download" button in the top right of
     the page, then click "Download ZIP".
