@@ -1,2 +1,0 @@
-This is a sample file, shld rename this file:
-for that copy this file with other name and delete the current file
