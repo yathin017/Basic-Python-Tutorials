@@ -2,7 +2,7 @@
 This tutorial is aimed at people with no programming experience at all
 or very little programming experience. If you have programmed a lot in
 the past using some other language you may want to read [the official
-tutorial](https://docs.python.org/3/tutorial/) instead.
+documentation](https://docs.python.org/3/tutorial/) instead.
 
 You can use Python 3.5 or any newer Python with this tutorial.
 
